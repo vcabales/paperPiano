@@ -17,6 +17,7 @@ Banana piano instructions listed for fun. Notes triggered by changes in analog r
 * [Processing IDE](https://processing.org/reference/libraries/)
 * [Minim for Processing](http://code.compartmental.net/tools/minim/)
 ## Banana Piano Pinouts
+![alt text](img/IMG_0489.jpg "Banana Piano Breadboard")
 * A0 to A4 attached to bananas with alligator clips
 * GND to conductive material (i.e. aluminum foil)
 * 5V pin to power
