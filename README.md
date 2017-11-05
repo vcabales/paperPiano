@@ -1,5 +1,5 @@
 # paperPiano and bananaPiano
-Make a touch sensor piano with an Arduino Uno and conductive material. Project still in progress. End goal is to create a metal keyboard that outputs musical notes and soundwave visualizations. Notes triggered by capacitive touch sensors and link to MIDI libraries. 
+Make a touch sensor piano with an Arduino Uno and conductive material. Project still in progress. End goal is to create a metal keyboard that outputs musical notes and soundwave visualizations. Notes triggered by capacitive touch sensors and link to MIDI libraries. Code to calculate thresholds to detect touch in basic_tones.ino. Currently listed for three keys.
 
 # Banana Piano Instructions
 Banana piano instructions listed for fun. Notes triggered by changes in analog read outputs.
