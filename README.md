@@ -3,22 +3,22 @@ Make a touch sensor piano with an Arduino Uno and conductive material. Project s
 
 Banana piano instructions listed below for fun. Notes triggered by changes in analog read outputs.
 
-##Hardware
+## Hardware
 * Arduino Uno
 * Breadboard
 * 5 MegaOhm resistors
 * 5 alligator clips
 * Jumper cables
 * 5 bananas or any other conductive material (i.e. aluminum foil)
-##Dependencies
+## Dependencies
 * [https://playground.arduino.cc/Main/CapacitiveSensor?from=Main.CapSense]: CapacitiveSensor Library
-* [https://processing.org/reference/libraries/]: Processing IDE
-* [http://code.compartmental.net/tools/minim/]: Minim for Processing 
-##Banana Piano Pinouts
+* [Processing IDE](https://processing.org/reference/libraries/)
+* [Minim for Processing](http://code.compartmental.net/tools/minim/)
+## Banana Piano Pinouts
 * A0 to A4 attached to bananas with alligator clips
 * GND to conductive material (i.e. aluminum foil)
 * 5V pin to power
-##Banana Piano Deployment
+## Banana Piano Deployment
 * Connect bananas to resistors using alligator clips
 * Resistors connect back to pinouts
 * Follow schematic in tutorial listed below
