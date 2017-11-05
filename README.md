@@ -3,6 +3,7 @@ Make a touch sensor piano with an Arduino Uno and conductive material. Project s
 
 # Banana Piano Instructions
 Banana piano instructions listed for fun. Notes triggered by changes in analog read outputs.
+![alt text](img/IMG_0488.jpg "Banana Piano")
 
 ## Hardware
 * Arduino Uno
